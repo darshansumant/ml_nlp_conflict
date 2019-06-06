@@ -1,5 +1,6 @@
 *.csv
 obj1/**/*.csv
+lda_pickles/**/*.pkl
 word_embeddings_tutorial.ipynb
 ds_random.ipynb
 plot_topics_extraction_with_nmf_lda.ipynb
