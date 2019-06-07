@@ -21,12 +21,14 @@ This repository contains several test & preliminary jupyter notebooks & python s
     - Topic_Modeling_runs.ipynb - complete end-to-end pipeline for Topic Modeling & Visualizations (interactive & static)
 
 #### Topic Modeling Visualizations
-    - D3.js based Interactive Visualizations are in the ['lda_vis/'](https://github.com/crismacg/ml_nlp_conflict/tree/master/lda_vis) folder
-    - Static Visualizations for topic distribution trends are in the ['lda_vis/distributions/'](https://github.com/crismacg/ml_nlp_conflict/tree/master/lda_vis/distributions) folder
+  - D3.js based Interactive Visualizations are in the ['lda_vis/'](https://github.com/crismacg/ml_nlp_conflict/tree/master/lda_vis) folder
+  - Static Visualizations for topic distribution trends are in the ['lda_vis/distributions/'](https://github.com/crismacg/ml_nlp_conflict/tree/master/lda_vis/distributions) folder
 
 ### Code References
 - Tutorials from PyTorch
 - https://github.com/claravania/lstm-pytorch/blob/master/model.py for LSTM implementation
 - https://github.com/yuchenlin/lstm_sentence_classifier/ for LSTM implementation
 - Code for homework 1 of the Advanced Machine Learning class.
-- https://www.kaggle.com/thebrownviking20/topic-modelling-with-spacy-and-scikit-learn/notebook for Topic Modeling with spaCy & scikit-learn
+- [Topic Modeling with spaCy & scikit-learn](https://www.kaggle.com/thebrownviking20/topic-modelling-with-spacy-and-scikit-learn/notebook)
+- [Topic Modeling (LDA/Word2Vec) with Spacy](https://gist.github.com/narulkargunjan/5319ed32d092d1fa7b52fec3a774e0e5)
+- [Building structured multi-plot grids with Seaborn & Matplotlib](https://seaborn.pydata.org/tutorial/axis_grids.html)
